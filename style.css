@@ -2,4 +2,7 @@ button {
   background:red;
   color:white;
   border:2px dotted rgb(201, 0, 0);
-  }
+  }body{
+    background:url('https://images.unsplash.com/photo-1543323646-cc6dc5373cd9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=930377d853e57adfa84f0798c5c0d409&auto=format&fit=crop&w=669&q=80');
+    background-size: cover;
+    }
