@@ -1,11 +1,32 @@
 body {
-  background: url("https://www.cdn.renault.com/content/dam/Renault/master/concept-cars/renault-concept-car-014.jpg.ximg.l_12_m.smart.jpg");
+  background: linear-gradient(45deg, rgb(0, 68, 255), rgb(0, 217, 255));
   background-size: cover;
+  background-position: center;
 }
-
 h1 {
   font-family: Merriweather;
-  text-align: center;
   margin-top: 400px;
   font-size: 100px;
+  color: white;
+}
+
+* {
+  text-align: center;
+}
+button {
+  font-size: 25px;
+  padding: 10px 15px;
+  background: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 50px;
+  transition: 0.4s;
+}
+
+button:active {
+  background: gray;
+}
+
+button:hover {
+  padding: 10px 50px;
 }
