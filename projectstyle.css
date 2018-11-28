@@ -1,0 +1,11 @@
+body {
+  background: url("https://www.cdn.renault.com/content/dam/Renault/master/concept-cars/renault-concept-car-014.jpg.ximg.l_12_m.smart.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-family: Merriweather;
+  text-align: center;
+  margin-top: 400px;
+  font-size: 100px;
+}
