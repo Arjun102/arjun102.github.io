@@ -1,3 +1,9 @@
 body {
-  background: green;
+  background: url(http://genchi.info/images/abstract-wallpaper-android-27.jpg);
+  font-family: Rajdhani, Arial, Helvetica, sans-serif;
+}
+
+button {
+  background: rgb(209, 181, 22);
+  border: 10px solid rgb(209, 181, 22);
 }
