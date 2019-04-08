@@ -4,6 +4,6 @@ body {
 }
 
 button {
-  background: rgb(209, 181, 22);
-  border: 10px solid rgb(209, 181, 22);
-}
+  background: rgb(23, 216, 23);
+  border: 10px solid rgb(23, 216, 23);
+  font-family: Rajdhani, Arial, Helvetica, sans-serif;
